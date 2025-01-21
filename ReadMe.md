@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Laravel, Javacript<br>💬 Ask me about Frontend Development<br>
+🌱 Python, Laravel, Javacript <br>💬 Ask me about Frontend Development<br>
 
 
 ## 🌐 Socials:
