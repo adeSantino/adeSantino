@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Python, Laravel, Javacript <br>💬 Ask me about Frontend Development<br>
+🌱 Python, Laravel, Javacript <br>💬 Ask me about Frontend Development,Backend Development<br>
 
 
 ## 🌐 Socials:
